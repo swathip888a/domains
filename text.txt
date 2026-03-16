@@ -1264,7 +1264,6 @@ support.bitpay.com
 bitsoffreedom.nl
 bitwala.com
 bladestorm.zendesk.com
-github.com
 global.bose.com
 bunq.com
 security.bytedance.com
